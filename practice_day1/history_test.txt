@@ -1,0 +1,20 @@
+  137  pwd
+  138  cd ..
+  139  cd linux
+  140  touch commands.txt
+  141  nano commands.txt
+  142  cat commands.txt
+  143  cp commands.txt /git/
+  144  cp commands.txt ../git/
+  145  touch family.txt
+  146  echo "Vineetha" >family.txt
+  147  echo "Sreevani" >family.txt
+  148  echo "Mrudula" >family.txt
+  149  grep "linux" family.txt
+  150  grep "Vineetha" family.txt
+  151  cd ..
+  152  grep "linux" family.txt
+  153  cd linux
+  154  ls
+  155  history
+  156  history | tail -20 >history_test.txt
