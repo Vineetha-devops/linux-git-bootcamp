@@ -1,0 +1,5 @@
+nano filename -- to enter nano mode where we can edit the file normally
+cat filename - to open and see the text in that file
+cd .. -- to go back to the previous path
+cd / to go to root
+cd to go to home directory
