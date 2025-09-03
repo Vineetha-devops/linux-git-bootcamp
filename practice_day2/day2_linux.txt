@@ -1,0 +1,10 @@
+cd .. To go back one directory
+echo "note" >filename - to add content in file
+nano filename - to open nano mode and add content in file
+cd - to go to next directory
+pwd - to see current directory
+ls -l - to see the files and folders in a directory
+ls -a - to see hidden files or folders in a directory
+mv filename directoryname/ - to move a file into a directory
+cp filename directoryname/ - to copy a file into a directory
+
