@@ -1,0 +1,12 @@
+277  mkdir ~/practice_day3 && cd ~/practice_day3
+  278  touch fileA.txt fileB.txt
+  279  ls -l
+  280  chmod +x fileA.txt  - to execute permission
+  281  chmod -w fileB.txt  - write permissions
+  282  ls
+  283  ls -l
+  284  chmod 755 fileA.txt -- full permission to read wrote and exceute
+  285  ls -l
+  286  sudo chown root fileA.txt - to give root permissions
+  287  ls -l
+  288  touch day3_linux.txt - to create a file
